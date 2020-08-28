@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T14:13:02.241Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="7Do5iur2gxilmko8fgnc" version="13.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-28T14:29:18.187Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="QOdygruTdlVzSVQU-RSK" version="13.1.0" type="github">
   <diagram id="OuEiIhacXbpzbOQ_7pM1" name="Page-1">
     <mxGraphModel dx="2012" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,8 +52,8 @@
         <mxCell id="Kw4wVqmFdIb3cbrhwV6b-17" value="&lt;span&gt;Электробегунок&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kw4wVqmFdIb3cbrhwV6b-18" value="&lt;span&gt;ОМС квитанция из регистратуры&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="Kw4wVqmFdIb3cbrhwV6b-18" value="&lt;span&gt;ОМС квитанция из регистратуры&lt;br&gt;&lt;/span&gt;По 200 человек в день приходят из ЛПУ без статалонов&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="460" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Kw4wVqmFdIb3cbrhwV6b-20" value="АРМ&lt;br&gt;КДЛ&lt;br&gt;Поиск задания по пробирке" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="360" y="340" width="120" height="60" as="geometry" />
@@ -73,14 +73,11 @@
         <mxCell id="Kw4wVqmFdIb3cbrhwV6b-25" value="Купить считыватели штрихкодов" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-250" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kw4wVqmFdIb3cbrhwV6b-26" value="сейчас можно несколько квитанций считать?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="180" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="Kw4wVqmFdIb3cbrhwV6b-26" value="Считывать за раз несколько квитанций, направлений, омс квитанций" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="180" y="170" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Kw4wVqmFdIb3cbrhwV6b-27" value="убрать мкб&lt;br&gt;доктора&lt;br&gt;фельдшера" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="380" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Kw4wVqmFdIb3cbrhwV6b-28" value="можно ли несколько квитанций направлений и прочего считать" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="650" width="120" height="60" as="geometry" />
+        <mxCell id="Kw4wVqmFdIb3cbrhwV6b-27" value="убрать мкб&lt;br&gt;доктора&lt;br&gt;фельдшера" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="185" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kw4wVqmFdIb3cbrhwV6b-29" value="АРМ на 4 этаж" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-250" y="660" width="120" height="60" as="geometry" />
@@ -89,7 +86,7 @@
           <mxGeometry x="-250" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kw4wVqmFdIb3cbrhwV6b-31" value="Если в бегунке и платные и бесплатные" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="180" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kw4wVqmFdIb3cbrhwV6b-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Kw4wVqmFdIb3cbrhwV6b-32" target="Kw4wVqmFdIb3cbrhwV6b-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -104,16 +101,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kw4wVqmFdIb3cbrhwV6b-32" value="Талоны на бесплтную сдачу" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kw4wVqmFdIb3cbrhwV6b-49" value="Генерировать штрихкоды аналог бесплатных талонов" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kw4wVqmFdIb3cbrhwV6b-47" value="Интерфес для выделения квот" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kw4wVqmFdIb3cbrhwV6b-33" value="Спускать пациента в регистратуру" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kw4wVqmFdIb3cbrhwV6b-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Kw4wVqmFdIb3cbrhwV6b-35" target="Kw4wVqmFdIb3cbrhwV6b-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -142,8 +139,11 @@
         <mxCell id="Kw4wVqmFdIb3cbrhwV6b-43" value="Что делать если у пациента есть старый лист назначения из которого он что то не сдал" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="1060" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Kw4wVqmFdIb3cbrhwV6b-44" value="По 200 человек в день приходят из ЛПУ без статалонов" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="5HJ5Qjmc7Bv2tITO_o1n-3" value="Бегунок полностью бесплатный (без платных анализов)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5HJ5Qjmc7Bv2tITO_o1n-4" value="Бывает ли так что пациенту не нужно идти в регистратуру после приема врача?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="740" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
