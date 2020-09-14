@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-03T04:53:09.182Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="KaGEEWf-CZ5siDx4ypqB" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-14T05:08:24.751Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Wb8iARMCzcU0EbUScEFO" version="13.6.9" type="github">
   <diagram id="OuEiIhacXbpzbOQ_7pM1" name="Page-1">
-    <mxGraphModel dx="2858" dy="2158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry x="-320" y="90" width="260" height="810" as="geometry" />
         </mxCell>
         <mxCell id="Kw4wVqmFdIb3cbrhwV6b-11" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-250" y="120" width="120" height="420" as="geometry" />
+          <mxGeometry x="-249" y="120" width="120" height="420" as="geometry" />
         </mxCell>
         <mxCell id="Kw4wVqmFdIb3cbrhwV6b-2" value="Смотнитровать рабочие станции" style="rounded=1;whiteSpace=wrap;html=1;" parent="Kw4wVqmFdIb3cbrhwV6b-11" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -52,13 +52,13 @@
         <mxCell id="Kw4wVqmFdIb3cbrhwV6b-14" value="&lt;span&gt;Квитанция&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-10" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wntlx0zybh5syP1aTEBa-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kw4wVqmFdIb3cbrhwV6b-17" target="Wntlx0zybh5syP1aTEBa-9">
+        <mxCell id="Wntlx0zybh5syP1aTEBa-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Kw4wVqmFdIb3cbrhwV6b-17" target="Wntlx0zybh5syP1aTEBa-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wntlx0zybh5syP1aTEBa-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kw4wVqmFdIb3cbrhwV6b-17" target="Wntlx0zybh5syP1aTEBa-12">
+        <mxCell id="Wntlx0zybh5syP1aTEBa-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Kw4wVqmFdIb3cbrhwV6b-17" target="Wntlx0zybh5syP1aTEBa-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wntlx0zybh5syP1aTEBa-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kw4wVqmFdIb3cbrhwV6b-17" target="Wntlx0zybh5syP1aTEBa-14">
+        <mxCell id="Wntlx0zybh5syP1aTEBa-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Kw4wVqmFdIb3cbrhwV6b-17" target="Wntlx0zybh5syP1aTEBa-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kw4wVqmFdIb3cbrhwV6b-17" value="&lt;span&gt;Электробегунок&lt;br&gt;Его нет в ИДЦ (раз нет принтеров)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -97,7 +97,7 @@
         <mxCell id="Kw4wVqmFdIb3cbrhwV6b-30" value="АРМ на 7 этаж иностранцы" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-250" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5HJ5Qjmc7Bv2tITO_o1n-22" value="Заменить батарейки в крафтвеях" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5HJ5Qjmc7Bv2tITO_o1n-22" value="Заменить батарейки в крафтвеях" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-250" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5HJ5Qjmc7Bv2tITO_o1n-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Kw4wVqmFdIb3cbrhwV6b-31" target="5HJ5Qjmc7Bv2tITO_o1n-5" edge="1">
@@ -157,7 +157,7 @@
         <mxCell id="Kw4wVqmFdIb3cbrhwV6b-41" value="Одна квитанция" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wntlx0zybh5syP1aTEBa-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kw4wVqmFdIb3cbrhwV6b-43" target="5HJ5Qjmc7Bv2tITO_o1n-10">
+        <mxCell id="Wntlx0zybh5syP1aTEBa-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Kw4wVqmFdIb3cbrhwV6b-43" target="5HJ5Qjmc7Bv2tITO_o1n-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kw4wVqmFdIb3cbrhwV6b-43" value="Что делать если у пациента есть старый лист назначения из которого он что то не сдал" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -187,7 +187,7 @@
         <mxCell id="5HJ5Qjmc7Bv2tITO_o1n-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="5HJ5Qjmc7Bv2tITO_o1n-10" target="5HJ5Qjmc7Bv2tITO_o1n-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wntlx0zybh5syP1aTEBa-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="5HJ5Qjmc7Bv2tITO_o1n-10" target="5HJ5Qjmc7Bv2tITO_o1n-9">
+        <mxCell id="Wntlx0zybh5syP1aTEBa-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="5HJ5Qjmc7Bv2tITO_o1n-10" target="5HJ5Qjmc7Bv2tITO_o1n-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5HJ5Qjmc7Bv2tITO_o1n-10" value="Удаление того что пациент не будет сдавать? Платно он должен оплатить а ОМС на халяву" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -208,20 +208,26 @@
         <mxCell id="5HJ5Qjmc7Bv2tITO_o1n-26" value="Отображать ОМС анализы не старше &amp;gt; ... месяцев" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="100" y="-659" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wntlx0zybh5syP1aTEBa-1" value="Направления на пункцию" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Wntlx0zybh5syP1aTEBa-1" value="Направления на пункцию" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wntlx0zybh5syP1aTEBa-2" value="Нельзя объединять из нескольких статалонов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Wntlx0zybh5syP1aTEBa-2" value="Нельзя объединять из нескольких статалонов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="650" y="-680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wntlx0zybh5syP1aTEBa-9" value="Добавить штрихкод" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Wntlx0zybh5syP1aTEBa-9" value="Добавить штрихкод" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="515" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wntlx0zybh5syP1aTEBa-12" value="Больше доп МКБ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Wntlx0zybh5syP1aTEBa-12" value="Больше доп МКБ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wntlx0zybh5syP1aTEBa-14" value="Поиск по контексту" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Wntlx0zybh5syP1aTEBa-14" value="Поиск по контексту" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4PIw06D6B21xL8moSKC--1" value="Ид диска&lt;br&gt;Название диска&lt;br&gt;первоначальный объем" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="890" width="140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4PIw06D6B21xL8moSKC--2" value="&lt;span&gt;Название файла объемом&lt;br&gt;дата создания&lt;br&gt;дата записи&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="960" width="120" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
