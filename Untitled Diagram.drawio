@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T05:08:24.751Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Wb8iARMCzcU0EbUScEFO" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-14T15:07:41.245Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="I2SCgBfe6BCSb1fbBKWF" version="13.6.9" type="github">
   <diagram id="OuEiIhacXbpzbOQ_7pM1" name="Page-1">
-    <mxGraphModel dx="2249" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -228,6 +228,30 @@
         </mxCell>
         <mxCell id="4PIw06D6B21xL8moSKC--2" value="&lt;span&gt;Название файла объемом&lt;br&gt;дата создания&lt;br&gt;дата записи&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-570" y="960" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4PIw06D6B21xL8moSKC--4" value="Acronis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4PIw06D6B21xL8moSKC--5" value="TestDisk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4PIw06D6B21xL8moSKC--6" value="Запись на диски частями" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4PIw06D6B21xL8moSKC--7" value="Зайти в сетевую папку и записать на диск" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4PIw06D6B21xL8moSKC--8" value="Везти базу бекапов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4PIw06D6B21xL8moSKC--9" value="Тестировать dvd" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4PIw06D6B21xL8moSKC--10" value="При появлении новой папки выходит окно с просьбой ввести id или напечатать новый" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="1210" width="205" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4PIw06D6B21xL8moSKC--11" value="создается сим" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
