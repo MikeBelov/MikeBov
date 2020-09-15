@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T15:25:10.590Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="SvoXhQ3oCgbOY7LTfesD" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-15T03:22:42.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="j3NU0wsbyZG9IR-jR8hZ" version="13.7.1" type="github">
   <diagram id="OuEiIhacXbpzbOQ_7pM1" name="Page-1">
-    <mxGraphModel dx="2249" dy="1861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,38 +223,100 @@
         <mxCell id="Wntlx0zybh5syP1aTEBa-14" value="Поиск по контексту" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4PIw06D6B21xL8moSKC--1" value="Ид диска&lt;br&gt;Название диска&lt;br&gt;первоначальный объем" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j7E-ZLI-We0WbbnO23IX-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4PIw06D6B21xL8moSKC--1" target="j7E-ZLI-We0WbbnO23IX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4PIw06D6B21xL8moSKC--1" value="Ид диска&lt;br&gt;s/n&lt;br&gt;Название диска&lt;br&gt;первоначальный объем&lt;br&gt;smart?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-720" y="890" width="140" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="4PIw06D6B21xL8moSKC--2" value="&lt;span&gt;Название файла объемом&lt;br&gt;дата создания&lt;br&gt;дата записи&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="960" width="120" height="110" as="geometry" />
+        <mxCell id="4PIw06D6B21xL8moSKC--2" value="&lt;span&gt;Название файла&lt;br&gt;комментарий&lt;br&gt;&amp;nbsp;объем&lt;br&gt;дата создания файла&lt;br&gt;дата записи на диск&lt;br&gt;id диска куда записан&lt;br&gt;Путь откуда забирали&lt;br&gt;записан полностью?&lt;br&gt;ссылка на следующий диск&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-570" y="900" width="120" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="4PIw06D6B21xL8moSKC--4" value="Acronis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4PIw06D6B21xL8moSKC--4" value="Acronis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-413" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4PIw06D6B21xL8moSKC--5" value="TestDisk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4PIw06D6B21xL8moSKC--5" value="TestDisk" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-413" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4PIw06D6B21xL8moSKC--6" value="Запись на диски частями" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4PIw06D6B21xL8moSKC--6" value="Запись на диски частями" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-413" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4PIw06D6B21xL8moSKC--7" value="Зайти в сетевую папку и записать на диск" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4PIw06D6B21xL8moSKC--7" value="Зайти в сетевую папку и записать на диск" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-413" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4PIw06D6B21xL8moSKC--8" value="Везти базу бекапов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4PIw06D6B21xL8moSKC--8" value="Везти базу бекапов" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-413" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4PIw06D6B21xL8moSKC--9" value="Тестировать dvd" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4PIw06D6B21xL8moSKC--9" value="Тестировать dvd" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-413" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4PIw06D6B21xL8moSKC--10" value="При появлении новой папки выходит окно с просьбой ввести id или напечатать новый" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4PIw06D6B21xL8moSKC--10" value="При появлении новой папки выходит окно с просьбой ввести id или напечатать новый на принтере этикеток" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="65" y="1210" width="205" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4PIw06D6B21xL8moSKC--11" value="создается симлинк с содержимым?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1210" width="120" height="60" as="geometry" />
+        <mxCell id="4PIw06D6B21xL8moSKC--11" value="создается симлинк с содержимым?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4PIw06D6B21xL8moSKC--12" value="Форматнуть&lt;br&gt;создать раздел" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="107.5" y="1340" width="120" height="60" as="geometry" />
+        <mxCell id="4PIw06D6B21xL8moSKC--12" value="Форматнуть&lt;br&gt;создать раздел с именем id diska если название раздела не по стандарту" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="91.25" y="1340" width="152.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="j7E-ZLI-We0WbbnO23IX-1" value="В какой момент появляется папка в Виктории?" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="1195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7E-ZLI-We0WbbnO23IX-5" value="Путь до файла" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7E-ZLI-We0WbbnO23IX-6" value="Указание диска из отфильтрованного списка разделов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7E-ZLI-We0WbbnO23IX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7E-ZLI-We0WbbnO23IX-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-490" y="1590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j7E-ZLI-We0WbbnO23IX-10" value="Ввезти номер диска" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7E-ZLI-We0WbbnO23IX-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7E-ZLI-We0WbbnO23IX-12" target="j7E-ZLI-We0WbbnO23IX-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j7E-ZLI-We0WbbnO23IX-12" value="Нет в базе" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="1724" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7E-ZLI-We0WbbnO23IX-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7E-ZLI-We0WbbnO23IX-13" target="j7E-ZLI-We0WbbnO23IX-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j7E-ZLI-We0WbbnO23IX-13" value="Создать запись" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="1864" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7E-ZLI-We0WbbnO23IX-15" value="Инициализировать&lt;br&gt;(Отформатировать,&lt;br&gt;раздел назвать id_диска)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="2004" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7E-ZLI-We0WbbnO23IX-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7E-ZLI-We0WbbnO23IX-17" target="j7E-ZLI-We0WbbnO23IX-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j7E-ZLI-We0WbbnO23IX-17" value="Есть в базе" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1724" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7E-ZLI-We0WbbnO23IX-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7E-ZLI-We0WbbnO23IX-19" target="j7E-ZLI-We0WbbnO23IX-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j7E-ZLI-We0WbbnO23IX-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7E-ZLI-We0WbbnO23IX-19" target="j7E-ZLI-We0WbbnO23IX-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j7E-ZLI-We0WbbnO23IX-19" value="Смонтирован?" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1924" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7E-ZLI-We0WbbnO23IX-21" value="Предложить дописать не записанные части" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="1944" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7E-ZLI-We0WbbnO23IX-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7E-ZLI-We0WbbnO23IX-23" target="j7E-ZLI-We0WbbnO23IX-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j7E-ZLI-We0WbbnO23IX-23" value="Показать информацию по диску и его содержимом" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="1820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7E-ZLI-We0WbbnO23IX-26" value="Предложить восстановить файл" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="2020" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
