@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T11:38:37.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="dHV1ATUiiE7nZL-T6Aop" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-24T13:30:17.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="V7erYtDt12agQYDqlsgd" version="13.7.5" type="github">
   <diagram id="OuEiIhacXbpzbOQ_7pM1" name="Page-1">
     <mxGraphModel dx="3014" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -318,32 +318,44 @@
         <mxCell id="j7E-ZLI-We0WbbnO23IX-26" value="Предложить восстановить файл" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-390" y="2020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AiHrO314fra5opHbrmcK-1" value="id 1&lt;br&gt;sasmung SDF123&lt;br&gt;40gb&amp;nbsp; &amp;nbsp; D://&lt;br&gt;sn asdl;kasd-1023" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="AiHrO314fra5opHbrmcK-1" value="id 1&lt;br&gt;sasmung SDF123&lt;br&gt;40gb&amp;nbsp; &amp;nbsp; D://&lt;br&gt;sn asdl;kasd-1023" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-770" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AiHrO314fra5opHbrmcK-2" value="sasmung SDF123&lt;br&gt;40gb&amp;nbsp; &amp;nbsp; D://&lt;br&gt;sn asdl;kasd-1023" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AiHrO314fra5opHbrmcK-2" value="sasmung SDF123&lt;br&gt;40gb&amp;nbsp; &amp;nbsp; D://&lt;br&gt;sn asdl;kasd-1023" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-770" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AiHrO314fra5opHbrmcK-3" value="backup.iso.part1 | date" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AiHrO314fra5opHbrmcK-3" value="backup.iso.part1 | date" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-790" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AiHrO314fra5opHbrmcK-4" value="Вы уверены что хотите форматнуть?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AiHrO314fra5opHbrmcK-4" value="Вы уверены что хотите форматнуть?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-620" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AiHrO314fra5opHbrmcK-5" value="При забросе вводить комментарий" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AiHrO314fra5opHbrmcK-5" value="При забросе вводить комментарий" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-620" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AiHrO314fra5opHbrmcK-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AiHrO314fra5opHbrmcK-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1060" y="1680" width="430" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="AiHrO314fra5opHbrmcK-7" value="Поиск информации (вхождение в имя файла)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AiHrO314fra5opHbrmcK-7" value="Поиск информации (вхождение в имя файла)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1040" y="1694" width="330" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="AiHrO314fra5opHbrmcK-9" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;id&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;name&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;размер&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Value 4&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 5&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Value 7&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 8&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 9&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+        <mxCell id="AiHrO314fra5opHbrmcK-9" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;id&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;name&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;размер&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Value 4&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 5&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Value 7&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 8&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 9&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
           <mxGeometry x="-1040" y="1740" width="300" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="AiHrO314fra5opHbrmcK-10" value="Восстановить если диск в системе стоит" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="AiHrO314fra5opHbrmcK-10" value="Восстановить если диск в системе стоит" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-730" y="1740" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YZdcbqBa0ErJgpD9dgrQ-1" value="id 1&lt;br&gt;sasmung SDF123&lt;br&gt;40gb&amp;nbsp; &amp;nbsp; D://&lt;br&gt;sn asdl;kasd-1023" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1320" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YZdcbqBa0ErJgpD9dgrQ-2" value="Прогрессбар" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="1420" width="450" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YZdcbqBa0ErJgpD9dgrQ-3" value="sasmung SDF123&lt;br&gt;40gb&amp;nbsp; &amp;nbsp; E://&lt;br&gt;sn asdl;kasd-1023" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1190" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YZdcbqBa0ErJgpD9dgrQ-4" value="Удалить" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="1820" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
