@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T13:30:17.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="V7erYtDt12agQYDqlsgd" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-27T17:09:05.485Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="11YOMN065-QNMhCWywje" version="14.4.3" type="github">
   <diagram id="OuEiIhacXbpzbOQ_7pM1" name="Page-1">
-    <mxGraphModel dx="3014" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3327" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,9 +223,6 @@
         <mxCell id="Wntlx0zybh5syP1aTEBa-14" value="Поиск по контексту" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j7E-ZLI-We0WbbnO23IX-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4PIw06D6B21xL8moSKC--1" target="j7E-ZLI-We0WbbnO23IX-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="4PIw06D6B21xL8moSKC--1" value="Ид диска&lt;br&gt;s/n&lt;br&gt;Название диска&lt;br&gt;первоначальный объем&lt;br&gt;smart?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-720" y="890" width="140" height="170" as="geometry" />
         </mxCell>
@@ -258,9 +255,6 @@
         </mxCell>
         <mxCell id="4PIw06D6B21xL8moSKC--12" value="Форматнуть&lt;br&gt;создать раздел с именем id diska если название раздела не по стандарту" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="91.25" y="1340" width="152.5" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="j7E-ZLI-We0WbbnO23IX-1" value="В какой момент появляется папка в Виктории?" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-710" y="1195" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j7E-ZLI-We0WbbnO23IX-5" value="Путь до файла" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-413" y="1420" width="120" height="60" as="geometry" />
@@ -345,16 +339,16 @@
         <mxCell id="AiHrO314fra5opHbrmcK-10" value="Восстановить если диск в системе стоит" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-730" y="1740" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YZdcbqBa0ErJgpD9dgrQ-1" value="id 1&lt;br&gt;sasmung SDF123&lt;br&gt;40gb&amp;nbsp; &amp;nbsp; D://&lt;br&gt;sn asdl;kasd-1023" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="YZdcbqBa0ErJgpD9dgrQ-1" value="id 1&lt;br&gt;sasmung SDF123&lt;br&gt;40gb&amp;nbsp; &amp;nbsp; D://&lt;br&gt;sn asdl;kasd-1023" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1320" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YZdcbqBa0ErJgpD9dgrQ-2" value="Прогрессбар" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YZdcbqBa0ErJgpD9dgrQ-2" value="Прогрессбар" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1400" y="1420" width="450" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YZdcbqBa0ErJgpD9dgrQ-3" value="sasmung SDF123&lt;br&gt;40gb&amp;nbsp; &amp;nbsp; E://&lt;br&gt;sn asdl;kasd-1023" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YZdcbqBa0ErJgpD9dgrQ-3" value="sasmung SDF123&lt;br&gt;40gb&amp;nbsp; &amp;nbsp; E://&lt;br&gt;sn asdl;kasd-1023" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1190" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YZdcbqBa0ErJgpD9dgrQ-4" value="Удалить" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YZdcbqBa0ErJgpD9dgrQ-4" value="Удалить" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-730" y="1820" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
