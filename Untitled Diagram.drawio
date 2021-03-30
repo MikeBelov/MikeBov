@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T07:37:15.631Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="b0TXFXIpD-lebrikn6WA" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T15:21:36.074Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="sxnyKwpSjAgg_xgu0M18" version="14.4.2" type="github">
   <diagram id="OuEiIhacXbpzbOQ_7pM1" name="Page-1">
-    <mxGraphModel dx="2875" dy="1800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3137" dy="1935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -355,7 +355,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0ReJTN0qho1BC1-l9Qq5-6" value="Все услуги (и анализы) в одну квитанцию" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1341" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="1341" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0ReJTN0qho1BC1-l9Qq5-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ReJTN0qho1BC1-l9Qq5-7" target="0ReJTN0qho1BC1-l9Qq5-16">
           <mxGeometry relative="1" as="geometry" />
@@ -394,25 +394,55 @@
           <mxGeometry x="1141" y="885" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0ReJTN0qho1BC1-l9Qq5-19" value="Нужна корзина" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1341" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="1341" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0ReJTN0qho1BC1-l9Qq5-21" value="Из назначения заполнять корзину&lt;br&gt;ОМС и платно" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="270" width="340" height="60" as="geometry" />
+          <mxGeometry x="1180" y="270" width="750" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0ReJTN0qho1BC1-l9Qq5-22" value="Назначения врачей" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ReJTN0qho1BC1-l9Qq5-23" target="0ReJTN0qho1BC1-l9Qq5-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0ReJTN0qho1BC1-l9Qq5-23" value="Приходящие из ЛПУ с назначениями" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="1500" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0ReJTN0qho1BC1-l9Qq5-24" value="Перейти на dcm4chee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1970" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ReJTN0qho1BC1-l9Qq5-25" target="0ReJTN0qho1BC1-l9Qq5-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0ReJTN0qho1BC1-l9Qq5-25" value="Нормальный по скорости CEPH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1970" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0ReJTN0qho1BC1-l9Qq5-26" value="VPN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1970" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ReJTN0qho1BC1-l9Qq5-27" target="0ReJTN0qho1BC1-l9Qq5-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-27" value="Сетевые карты" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ReJTN0qho1BC1-l9Qq5-29" target="0ReJTN0qho1BC1-l9Qq5-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-29" value="Жесткие диски hdd ssd" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2370" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-31" value="Патч корды" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-34" value="Поиск пациента, поиск назначений" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-36" value="Запись платная с сайта" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-37" value="Пациент сам записывается с сайта по назначениям" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
