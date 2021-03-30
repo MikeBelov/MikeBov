@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T14:34:34.752Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="jdzKlwpPJ8Ia2sLaS2UA" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T06:25:38.451Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="EJbFTtSSPC5_Z6-61CfN" version="14.4.2" type="github">
   <diagram id="OuEiIhacXbpzbOQ_7pM1" name="Page-1">
     <mxGraphModel dx="2875" dy="1855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -253,9 +253,6 @@
         <mxCell id="4PIw06D6B21xL8moSKC--10" value="При появлении новой папки выходит окно с просьбой ввести id или напечатать новый на принтере этикеток" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="65" y="1210" width="205" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4PIw06D6B21xL8moSKC--11" value="создается симлинк с содержимым?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="1210" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="4PIw06D6B21xL8moSKC--12" value="Форматнуть&lt;br&gt;создать раздел с именем id diska если название раздела не по стандарту" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="91.25" y="1340" width="152.5" height="100" as="geometry" />
         </mxCell>
@@ -365,6 +362,45 @@
         </mxCell>
         <mxCell id="0ReJTN0qho1BC1-l9Qq5-5" value="Не требовать подшития квитанций в бухгалтерии" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-6" value="Все услуги в одну квитанцию" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ReJTN0qho1BC1-l9Qq5-7" target="0ReJTN0qho1BC1-l9Qq5-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-7" value="Без групп запутаются заборщицы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ReJTN0qho1BC1-l9Qq5-8" target="0ReJTN0qho1BC1-l9Qq5-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-8" value="пока нет ОМС квитанций будут тупить с автоувеличением" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-9" value="Не делать автоувеличение номера биомат" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1341" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ReJTN0qho1BC1-l9Qq5-11" target="0ReJTN0qho1BC1-l9Qq5-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-11" value="забирает квитанции ИРА -мазки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-12" value="Забирает квитанции бакушка" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-13" value="Забирает квитанции моча" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-14" value="Ксерокс" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1341" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-16" value="Нужно сканировать" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1341" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ReJTN0qho1BC1-l9Qq5-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="885" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
