@@ -1,26 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T14:27:19.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="6daY6XR-hVLAZnzaMa3F" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-01T11:37:56.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="9PSdDRW3XCqOXlf1EVAb" version="14.7.3" type="github">
   <diagram id="ToOjBC1Id_yxoeAMBEmB" name="Page-1">
-    <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2187" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="621J0vIKwAmu1t2EWcD7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="621J0vIKwAmu1t2EWcD7-1" target="621J0vIKwAmu1t2EWcD7-4">
+        <mxCell id="621J0vIKwAmu1t2EWcD7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="621J0vIKwAmu1t2EWcD7-1" target="621J0vIKwAmu1t2EWcD7-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="621J0vIKwAmu1t2EWcD7-1" value="ввод фио и номера&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="621J0vIKwAmu1t2EWcD7-1" value="ввод фио, номера, email, пароль(кнопка генерировать) один раз и должна работать автоподстановка" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="20" width="280" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="621J0vIKwAmu1t2EWcD7-2" value="заполняем поля" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="621J0vIKwAmu1t2EWcD7-2" value="заполняем поля" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="621J0vIKwAmu1t2EWcD7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="621J0vIKwAmu1t2EWcD7-4" target="621J0vIKwAmu1t2EWcD7-6">
+        <mxCell id="621J0vIKwAmu1t2EWcD7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="621J0vIKwAmu1t2EWcD7-4" target="621J0vIKwAmu1t2EWcD7-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="621J0vIKwAmu1t2EWcD7-4" value="генерим пароль" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="621J0vIKwAmu1t2EWcD7-4" value="генерим пароль" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="621J0vIKwAmu1t2EWcD7-6" value="подставляем в емейл 9506251015@sms.ru" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="621J0vIKwAmu1t2EWcD7-6" value="подставляем в емейл 9506251015@sms.ru" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCxaMuIBswTyikWX3NAE-1" value="генерим логин из номера телефона" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCxaMuIBswTyikWX3NAE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VCxaMuIBswTyikWX3NAE-3" target="VCxaMuIBswTyikWX3NAE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VCxaMuIBswTyikWX3NAE-3" value="какое письмо приходит при регистрации" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCxaMuIBswTyikWX3NAE-4" value="Какое письмо при восстановлении" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCxaMuIBswTyikWX3NAE-6" value="запрос на восстановление логина (нах нужен) съест все смс" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCxaMuIBswTyikWX3NAE-7" value="Сейчас &lt;br&gt;Отдельно логин отдельно пароль" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCxaMuIBswTyikWX3NAE-8" value="Укорачиваем ссылки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCxaMuIBswTyikWX3NAE-9" value="Избавиться от поля логин?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCxaMuIBswTyikWX3NAE-10" value="проверить что за письмо при регистрации приходит" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="600" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCxaMuIBswTyikWX3NAE-11" value="Что делать с паролем?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="610" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCxaMuIBswTyikWX3NAE-12" value="При авторизации вылетает на стартовую страницу&lt;br&gt;а не на предыдущую" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCxaMuIBswTyikWX3NAE-13" value="https://joomlaforum.ru/index.php/topic,274006.0.html" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="40" width="320" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
