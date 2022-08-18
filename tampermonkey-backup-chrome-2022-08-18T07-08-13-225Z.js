@@ -1,4 +1,3 @@
-/* globals jQuery, $, waitForKeyElements */
 // ==UserScript==
 // @name         ecp_autoscript
 // @require      http://servercontrol.dcnn.ru/static/main/js/jquery.js
