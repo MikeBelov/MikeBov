@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ecp_autoscript
 // @require      http://servercontrol.dcnn.ru/static/main/js/jquery.js
-// @namespace    http://servercontrol.dcnn.ru/
+// @namespace    http://tampermonkey.net/
 // @version      0.1.1
 // @description  try to take over the world!
 // @author       You
